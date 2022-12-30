@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**CharchaGalav/CharchaGalav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :wave: Hi I'am Charcha Galav, Third year CSE student, currently pursuing B.Tech from Government Women's Engineering College, Ajmer.
+ 
+ :eyes: I'am interested in Problem Solving, Programming, Python and exploring new skills.
+ 
+ :seedling: I'am currently learning DSA, OS, Networking.
+ 
+ :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/charcha-galav-b78a36203/) 
+ 
+ :boom: HacktoberFest2022
+ 
+ [![An image of @charcha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charcha)](https://holopin.io/@charcha)
