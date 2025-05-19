@@ -1,4 +1,4 @@
- :wave: Hi I'am Charcha Galav, Third year CSE student, currently pursuing B.Tech from Government Women's Engineering College, Ajmer.
+ :wave: Hi I'am Charcha Galav, completed B.Tech from Government Women's Engineering College, Ajmer.
  
  :eyes: I'am interested in Problem Solving, Programming, Python and exploring new skills.
  
